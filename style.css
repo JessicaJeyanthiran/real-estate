@@ -90,6 +90,11 @@
     border-radius: 50%
 }
 
+.arrow-icon{
+    font-size: 28px;
+    font-weight: 800;
+}
+
 @media only screen and (max-width: 767px){
     .navbar-nav{
         text-align: center;
